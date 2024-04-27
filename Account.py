@@ -1,3 +1,6 @@
+from cd_account import create_cd_account
+from savings_account import create_savings_account
+
 # This method sets the balance of the account.
 def set_balance(self, balance):
     """Sets the balance for the for the account"""
